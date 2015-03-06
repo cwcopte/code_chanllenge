@@ -1,0 +1,11 @@
+In the past three years, 
+over 200 Insight Fellows have become data scientists and data engineers at top-tier companies. 
+This coming June, 
+the Insight Data Science Fellows Program will celebrate its tenth session in Silicon Valley and its third session in New York City. 
+The fourth session of our extremely successful Insight Data Engineering Fellows Program will also take place in June, 
+with engineers from varying professional and academic backgrounds building data pipelines using the latest open-
+source big data technologies and becoming data engineers on leading teams. 
+Over the past six months, 
+we have seen intense demand from companies of all sizes and from a variety of industries. 
+Heads of data are reaching out to engage with the Insight Fellows on both coasts, 
+driven by the high caliber of data projects completed at Insight and the success of our alumni in their new careers. 
